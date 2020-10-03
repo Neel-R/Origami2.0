@@ -1,0 +1,49 @@
+h1 {
+    color:mediumaquamarine
+}
+
+*{
+    border: inset ;
+}
+.Header {
+    background-color: rgb(195, 255, 0);
+    display: flex; /* or inline-flex */
+    justify-content: center;
+  }
+.Menu{
+    display: flex; /* or inline-flex */
+    justify-content: center;
+}
+.Grid {
+    display: flex; /* or inline-flex */
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(217, 114, 231);
+}
+.Design1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
+.Design2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
+.Design3{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
+.Design4{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
+.Design5{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
+.Design6{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 235, 151);
+}
